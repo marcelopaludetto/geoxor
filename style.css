@@ -1,0 +1,127 @@
+html,body {
+    margin:auto ;
+    font-family: System-ui ;
+    height: 100%;
+    width: 100%;
+    
+    
+}
+body { background-color: #0c0c0c; }
+
+
+.backgroundxor {
+    background-color: #121212;
+    color: #121212 ;
+    padding-top: 150px;
+    padding-left:900px;
+    padding-bottom: 800px;
+    padding-right: 800px;
+    background-image: url("https://cdn.discordapp.com/attachments/910614777582215198/1030978975087992853/tda-trollagem.png");
+     background-size:55% ;
+     background-repeat:repeat;
+     background-position-x: 50%;
+     justify-content: space-between
+     
+     
+    }
+    .bottomblack {
+        background-color: #0c0c0c ;   
+        padding-top: 18.3%;
+        padding-bottom: 0.1%;
+        padding-right: 900px;
+        padding-left: 800px;
+        box-shadow:0px 0px 10px;
+        
+        
+    }
+  
+  .textboxhidden {
+    width: 1500px;
+    height: 695px;
+    opacity:100%;
+    background-color: white;
+    background-image: url("https://media.discordapp.net/attachments/910614777582215198/1031796869866737695/unknown.png?width=491&height=473")
+    
+    
+  }
+  .insidetext {
+   position: relative;
+   bottom: 710px;
+   width: 550px;
+   height: 450px;
+   text-shadow: #4cc7e4 2px 3px;
+   color: #f963d9;
+
+  }
+    .textbox {
+        width: 1500px;
+        height: 700px;
+        border: 5px solid #ff61e1;
+        margin: auto;
+        position:relative;
+        bottom: 1150px;
+       
+    }
+    .textbox2 {
+        width: 1500px;
+        height: 700px;
+        border: 7px solid #01c5ff ;
+        margin: auto;
+        position:relative;
+        bottom: 1867px;
+        right: 5px;
+        
+    }.textbox3 {
+        width: 1500px;
+        height: 703px;
+        border: 5px solid #8295ff;
+        margin: auto;
+        position:relative;
+        bottom: 11px;
+        right:9.5px;
+        bottom:9.9px;
+        
+    }
+    .Geoxerlogo{
+        width: 400px;
+        height: 50px;
+       background-color:#8295ff;
+       background-image: url("https://cdn.discordapp.com/attachments/910614777582215198/1031836277974253568/Sprite-0002.png");
+       position: absolute;
+       top:-8%;
+       border-radius: 7px
+       
+
+
+
+
+
+     }
+     .theimporantlyric{
+        position: absolute;
+        top:-12.5%;
+        text-shadow: #b400fc 2px 3px;
+        color: #ffffff;
+        font-size:19px;
+        right:82%
+     }
+
+     .Geoxerlogotext{
+
+     }
+     .force-select {  
+        -webkit-user-select: all;  /* Chrome 49+ */
+        -moz-user-select: all;     /* Firefox 43+ */
+        -ms-user-select: all;      /* No support yet */
+        user-select: all;          /* Likely future */   
+      }
+      
+    
+      .iframe iframe{
+  position: absolute;
+  top:790px;
+  right: 25%;
+  width: 50%;
+  height: 50%;
+}
+ /*trolldespair*/
