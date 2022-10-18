@@ -6,4 +6,4 @@ Colégio Estadual Presidente Roosevelt.
 
 Disciplina: Pensamento Computacional
 
-Professor: Diogo Prado
+Professor: Diego Prado
